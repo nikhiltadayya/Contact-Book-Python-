@@ -1,7 +1,3 @@
-Here is your **README draft** for the Contact Book project on GitHub, based on your code and output:
-
----
-
 # 📒 Contact Book Management System
 
 This is a simple **Contact Book project using MySQL** to store, add, display, search, and delete contacts.

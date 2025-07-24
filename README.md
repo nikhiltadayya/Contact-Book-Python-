@@ -61,4 +61,4 @@ Contact added successfully!
 
 ---
 
-Let me know if you want **badges, GitHub topics, or project setup instructions** for this repository before uploading today.
+
